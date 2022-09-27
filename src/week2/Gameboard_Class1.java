@@ -69,7 +69,6 @@ public class Gameboard_Class1 {
                         {
                             System.out.println("You've only " + attempts + " chances left\n");
                         }
-
                         else
                         {
                             System.out.println("OOPSS! You've lost the game");
