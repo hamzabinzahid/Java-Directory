@@ -9,5 +9,4 @@ public class class2 {
         roll = r;
         System.out.print("Good Morning " + name + ". We hope to have a great bond with you.");
     };
-
 }
